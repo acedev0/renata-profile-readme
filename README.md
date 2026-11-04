@@ -41,6 +41,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="28" /> &nbsp;About Me
 
+<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" />
+
 ```yaml
 name: Renata Gabdrakhmanova
 location: Rockville, MD 🇺🇸
@@ -202,7 +204,7 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
 <div align="center">
 
 <a href="https://github.com/renata110803">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renata110803&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renata110803&theme=material_palenight" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/renata110803">
@@ -212,13 +214,17 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
 <br/><br/>
 
 <a href="https://github.com/renata110803">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renata110803&layout=donut-vertical&theme=material-palenight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renata110803&theme=material_palenight" alt="Top Languages by Repo"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/renata110803">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renata110803&theme=material_palenight" alt="Top Languages by Commit"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/renata110803">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=renata110803&theme=material-palenight&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renata110803&theme=material_palenight" alt="Contribution Graph"/>
 </a>
 
 </div>
