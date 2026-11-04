@@ -209,10 +209,10 @@ const renata: Developer = {
 <div align="center">
 
 <a href="https://github.com/renata110803">
-  <img align="top" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renata110803&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&ring_color=A177FE&border_radius=12&rank_icon=github" alt="Renata's GitHub Stats"/>
+  <img align="middle" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renata110803&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&ring_color=A177FE&border_radius=12&rank_icon=github" alt="Renata's GitHub Stats"/>
 </a>
 <a href="https://github.com/renata110803">
-  <img align="top" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renata110803&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&border_radius=12" alt="Top Languages"/>
+  <img align="middle" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renata110803&card_width=495&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&border_radius=12" alt="Top Languages"/>
 </a>
 
 <br/><br/>
