@@ -20,7 +20,7 @@
 <!-- ═════════════════════════ QUICK BADGES ═════════════════════════ -->
 
 <a href="mailto:renata110803@gmail.com"><img src="https://img.shields.io/badge/-renata110803@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=F472B6&labelColor=0D1117&color=0D1117" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/-in/renata03-0D1117?style=flat-square&logo=linkedin&logoColor=A177FE&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/-in%2Frenata03-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ExNzdGRSI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjJWMTAuOUg2LjQ2TTcuODMgNi40NWExLjYgMS42IDAgMCAwLTEuNiAxLjYgMS42IDEuNiAwIDAgMCAxLjYgMS42IDEuNiAxLjYgMCAwIDAgMS42LTEuNiAxLjYgMS42IDAgMCAwLTEuNi0xLjZaIi8%2BPC9zdmc%2B&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="https://github.com/renata110803"><img src="https://img.shields.io/badge/-@renata110803-0D1117?style=flat-square&logo=github&logoColor=C4B5FD&labelColor=0D1117" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/-Rockville,_MD-0D1117?style=flat-square&logo=googlemaps&logoColor=F472B6&labelColor=0D1117" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=renata110803&label=views&color=A177FE&style=flat-square" alt="Profile Views"/>
@@ -209,10 +209,10 @@ const renata: Developer = {
 <div align="center">
 
 <a href="https://github.com/renata110803">
-  <img align="middle" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renata110803&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&ring_color=A177FE&border_radius=12&rank_icon=github" alt="Renata's GitHub Stats"/>
+  <img align="top" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renata110803&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&ring_color=A177FE&border_radius=12&rank_icon=github" alt="Renata's GitHub Stats"/>
 </a>
 <a href="https://github.com/renata110803">
-  <img align="middle" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renata110803&card_width=495&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&border_radius=12" alt="Top Languages"/>
+  <img align="top" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renata110803&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&border_radius=12" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -262,7 +262,7 @@ const renata: Developer = {
 </p>
 
 <a href="mailto:renata110803@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Me"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/LinkedIn_Connect-A177FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="Connect on LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/LinkedIn_Connect-A177FE?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42IDEuNiAwIDAgMC0xLjYgMS42IDEuNiAxLjYgMCAwIDAgMS42IDEuNiAxLjYgMS42IDAgMCAwIDEuNi0xLjYgMS42IDEuNiAwIDAgMC0xLjYtMS42WiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://github.com/renata110803"><img src="https://img.shields.io/badge/GitHub_Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Follow on GitHub"/></a>
 
 <br/><br/>
