@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/-in%2Frenata03-0D1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ExNzdGRSI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjJWMTAuOUg2LjQ2TTcuODMgNi40NWExLjYgMS42IDAgMCAwLTEuNiAxLjYgMS42IDEuNiAwIDAgMCAxLjYgMS42IDEuNiAxLjYgMCAwIDAgMS42LTEuNiAxLjYgMS42IDAgMCAwLTEuNi0xLjZaIi8%2BPC9zdmc%2B&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="https://github.com/renata110803"><img src="https://img.shields.io/badge/-@renata110803-0D1117?style=flat-square&logo=github&logoColor=C4B5FD&labelColor=0D1117" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/-Rockville,_MD-0D1117?style=flat-square&logo=googlemaps&logoColor=F472B6&labelColor=0D1117" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=renata110803&label=views&color=A177FE&style=flat-square" alt="Profile Views"/>
+
 
 <br/><br/>
 
