@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="panel-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121626" />
+      <stop offset="100%" stop-color="#0E121F" />
+    </linearGradient>
+
+    <!-- Border Gradients -->
+    <linearGradient id="panel-stroke-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15" />
+    </linearGradient>
+
+    <linearGradient id="panel-stroke-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#F472B6" stop-opacity="0.15" />
+    </linearGradient>
+
+    <linearGradient id="panel-stroke-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.15" />
+    </linearGradient>
+
+    <linearGradient id="panel-stroke-4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 11px; font-weight: 600; letter-spacing: 0.8px; }
+    .sans-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: 700; }
+    .sans-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12.5px; font-weight: 400; fill: #94A3B8; }
+    .highlight-1 { fill: #C4B5FD; }
+    .highlight-2 { fill: #FBCFE8; }
+    .highlight-3 { fill: #BAE6FD; }
+    .highlight-4 { fill: #A7F3D0; }
+  </style>
+
+  <!-- Panel 1: Target Roles (Top Left) -->
+  <g transform="translate(10, 10)">
+    <rect width="430" height="105" rx="14" fill="url(#panel-bg)" stroke="url(#panel-stroke-1)" stroke-width="1.2" />
+    <text x="20" y="28" class="mono" fill="#A78BFA">🎯 TARGET ROLES</text>
+    <text x="20" y="52" class="sans-title highlight-1">Software Engineer · Full-Stack · Tech PM</text>
+    <text x="20" y="74" class="sans-body">Seeking Summer &amp; Fall 2026 Internships &amp; New Grad Roles.</text>
+    <text x="20" y="92" class="sans-body">Flexible for co-ops, part-time academic semesters, or full-time.</text>
+  </g>
+
+  <!-- Panel 2: Academic Pedigree (Top Right) -->
+  <g transform="translate(460, 10)">
+    <rect width="430" height="105" rx="14" fill="url(#panel-bg)" stroke="url(#panel-stroke-2)" stroke-width="1.2" />
+    <text x="20" y="28" class="mono" fill="#F472B6">🎓 EDUCATION &amp; RIGOR</text>
+    <text x="20" y="52" class="sans-title highlight-2">B.S. Computer Science @ UMGC (2026)</text>
+    <text x="20" y="74" class="sans-body">Object-Oriented Programming, Data Structures &amp; Algorithms.</text>
+    <text x="20" y="92" class="sans-body">Full Stack Open Alum (University of Helsinki SPA architecture).</text>
+  </g>
+
+  <!-- Panel 3: Technical Arsenal (Bottom Left) -->
+  <g transform="translate(10, 125)">
+    <rect width="430" height="105" rx="14" fill="url(#panel-bg)" stroke="url(#panel-stroke-3)" stroke-width="1.2" />
+    <text x="20" y="28" class="mono" fill="#38BDF8">⚡ CORE ENGINEERING TECH</text>
+    <text x="20" y="52" class="sans-title highlight-3">Java · Python · React · TypeScript · SQL</text>
+    <text x="20" y="74" class="sans-body">Modern SPA lifecycles, REST APIs, PHP, Git, responsive design.</text>
+    <text x="20" y="92" class="sans-body">Plus: 3D CAD modeling (2020 Design, AutoCAD) &amp; QuickBooks.</text>
+  </g>
+
+  <!-- Panel 4: Mobility & Location (Bottom Right) -->
+  <g transform="translate(460, 125)">
+    <rect width="430" height="105" rx="14" fill="url(#panel-bg)" stroke="url(#panel-stroke-4)" stroke-width="1.2" />
+    <text x="20" y="28" class="mono" fill="#34D399">📍 LOCATION &amp; AVAILABILITY</text>
+    <text x="20" y="52" class="sans-title highlight-4">Rockville, MD · Remote · Open to Relocate</text>
+    <text x="20" y="74" class="sans-body">Greater Washington D.C. Area · Seamless remote workflow.</text>
+    <text x="20" y="92" class="sans-body">Willing to relocate across the US for the right engineering team.</text>
+  </g>
+</svg>
