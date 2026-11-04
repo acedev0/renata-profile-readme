@@ -1,303 +1,213 @@
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    RENATA GABDRAKHMANOVA · README                 ║ -->
+<!-- ║        Palette: Midnight #0D1117 · Violet #A177FE · Rose #F472B6  ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         HEADER BANNER                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Renata%20Gabdrakhmanova&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20Web%20Developer%20%7C%20Technical%20Project%20Coordinator&descSize=16&descAlignY=52&descAlign=50"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       ANIMATED TYPING SVG                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6D28D9,100:F472B6&height=260&section=header&text=Renata%20Gabdrakhmanova&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Where%20design%20meets%20code&descSize=18&descAlignY=58&descAlign=50&stroke=A177FE&strokeWidth=1"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+beautiful+web+experiences+%F0%9F%8C%90;Designing+3D+spaces+that+inspire+%F0%9F%8F%A0;Teaching+code%2C+one+student+at+a+time+%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB;CS+%40+UMGC+%E2%80%A2+Class+of+2026+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=620&height=40&lines=Full-Stack+Web+Developer;3D+Kitchen+%26+Interior+Designer;Technical+Project+Coordinator;CS+%40+UMGC+%C2%B7+Class+of+2026" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         SOCIAL BADGES                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<a href="mailto:renata110803@gmail.com"><img src="https://img.shields.io/badge/-renata110803@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=F472B6&labelColor=0D1117&color=0D1117" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/-in/renata03-0D1117?style=flat-square&logo=linkedin&logoColor=A177FE&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://github.com/renata110803"><img src="https://img.shields.io/badge/-@renata110803-0D1117?style=flat-square&logo=github&logoColor=C4B5FD&labelColor=0D1117" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/-Rockville,_MD-0D1117?style=flat-square&logo=googlemaps&logoColor=F472B6&labelColor=0D1117" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=renata110803&label=views&color=A177FE&style=flat-square" alt="Profile Views"/>
 
-<a href="mailto:renata110803@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/renata03">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://github.com/renata110803">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=renata110803&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<br/><br/>
+
+<sub>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#experience">Experience</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#analytics">Analytics</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
+</sub>
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════ ABOUT ═════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="28" /> &nbsp;About Me
+<h2 id="about"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="30" /> &nbsp;About Me</h2>
 
-<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" />
+<table>
+<tr>
+<td width="62%" valign="top">
 
-```yaml
-name: Renata Gabdrakhmanova
-location: Rockville, MD 🇺🇸
-education: B.S. Computer Science @ UMGC (Expected 2026)
-current_role: Designer & Project Coordinator @ RemodelX Kitchen & Bath
-interests:
-  - Full-Stack Web Development
-  - 3D Architectural Design
-  - Teaching & Mentoring
-  - UI/UX Design
-fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
+```ts
+const renata = {
+  role:      "Designer & Project Coordinator @ RemodelX",
+  studying:  "B.S. Computer Science @ UMGC — 2026",
+  based:     "Rockville, MD 🇺🇸",
+  builds:    ["Web apps", "3D interiors", "Clean UIs"],
+  teaches:   ["Python", "JavaScript", "Algorithms"],
+  currently: "Learning full-stack with Full Stack Open",
+  motto:     "Design with empathy, ship with precision ✨",
+};
 ```
 
-> *"Where design meets code — I bring creative vision and technical precision together."*
+</td>
+<td width="38%" align="center" valign="middle">
 
-- 🏗️ &nbsp;Currently working as a **Designer / Project Coordinator** at **RemodelX Kitchen & Bath**
-- 🎓 &nbsp;Pursuing my **B.S. in Computer Science** at the **University of Maryland Global Campus**
-- 🌐 &nbsp;Previously built responsive web apps as an **Intern at Kiddy School** using React, WordPress & PHP
-- 👩‍🏫 &nbsp;Taught **Python, JavaScript & Algorithms** to students as a **CS Tutor**
-- 📐 &nbsp;Creating **3D kitchen & cabinetry designs** with 2020 Design software
-- 💡 &nbsp;Passionate about bridging **design thinking** with **software engineering**
+<img width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" />
 
----
+<sub><i>I design kitchens in 3D by day<br/>and code web apps by night.</i></sub>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+</td>
+</tr>
+</table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+&nbsp;&nbsp;🏗️ &nbsp;Shaping **3D kitchen & cabinetry designs** and coordinating projects at **RemodelX Kitchen & Bath**<br/>
+&nbsp;&nbsp;🌐 &nbsp;Built **responsive web apps** with React, WordPress & PHP as an intern at **Kiddy School**<br/>
+&nbsp;&nbsp;👩‍🏫 &nbsp;Mentored students in **Python, JavaScript & algorithms** as a CS tutor<br/>
+&nbsp;&nbsp;💡 &nbsp;Passionate about bridging **design thinking** and **software engineering**
+
+<!-- ═════════════════════════════ STACK ═════════════════════════════ -->
+
+<h2 id="stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack</h2>
 
 <div align="center">
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuit&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+<table>
+<tr>
+<td align="center" width="200"><sub><b>LANGUAGES</b></sub></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,html,css&theme=dark" alt="Languages"/>
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>FRAMEWORKS</b></sub></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,wordpress,nodejs&theme=dark" alt="Frameworks"/>
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>TOOLS</b></sub></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>DESIGN & BUSINESS</b></sub></td>
+<td align="center">
+<img src="https://img.shields.io/badge/AutoCAD-0D1117?style=for-the-badge&logo=autodesk&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/2020_Design-0D1117?style=for-the-badge&logo=blender&logoColor=A177FE"/>
+<img src="https://img.shields.io/badge/QuickBooks-0D1117?style=for-the-badge&logo=intuit&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/MS_Office-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=F472B6"/>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- ═══════════════════════════ EXPERIENCE ══════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      EXPERIENCE TIMELINE                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Experience
+<h2 id="experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Experience</h2>
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/2025-Present-blueviolet?style=flat-square" alt="2025-Present"/>
+    <td width="140" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2025_→_now-A177FE?style=for-the-badge&labelColor=0D1117"/>
     </td>
     <td>
-      <strong>🏠 Designer / Project Coordinator Assistant</strong><br/>
-      <em>RemodelX Kitchen & Bath</em><br/>
-      <sub>3D kitchen design (2020 Design) · Vendor & supplier coordination · QuickBooks budgeting · Client consultations · Project documentation</sub>
+      <b>Designer / Project Coordinator Assistant</b> &nbsp;·&nbsp; <i>RemodelX Kitchen & Bath</i><br/>
+      <sub>◆ 3D kitchen design in 2020 Design &nbsp;◆ Vendor & supplier coordination &nbsp;◆ QuickBooks budgeting &nbsp;◆ Client consultations &nbsp;◆ Project documentation</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/2023-2024-9B59B6?style=flat-square" alt="2023-2024"/>
+    <td width="140" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2023_→_2024-C084FC?style=for-the-badge&labelColor=0D1117"/>
     </td>
     <td>
-      <strong>🌐 Web Design & Development Intern</strong><br/>
-      <em><a href="https://kiddycodersclub.com/">Kiddy School</a></em><br/>
-      <sub>WordPress & ReactJS development · PHP & JavaScript · Plugin integration · Responsive UI/UX · Cross-functional collaboration</sub>
+      <b>Web Design & Development Intern</b> &nbsp;·&nbsp; <i><a href="https://kiddycodersclub.com/">Kiddy School</a></i><br/>
+      <sub>◆ WordPress & React development &nbsp;◆ PHP & JavaScript &nbsp;◆ Plugin integration &nbsp;◆ Responsive UI/UX &nbsp;◆ Cross-functional collaboration</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/2019-2020-8E44AD?style=flat-square" alt="2019-2020"/>
+    <td width="140" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2019_→_2020-F472B6?style=for-the-badge&labelColor=0D1117"/>
     </td>
     <td>
-      <strong>👩‍🏫 Computer Science Tutor</strong><br/>
-      <em><a href="https://kiddycodersclub.com/">Kiddy School</a></em><br/>
-      <sub>Python & JavaScript instruction · Algorithms & data structures · Individualized lesson plans · Student progress tracking</sub>
+      <b>Computer Science Tutor</b> &nbsp;·&nbsp; <i><a href="https://kiddycodersclub.com/">Kiddy School</a></i><br/>
+      <sub>◆ Python & JavaScript instruction &nbsp;◆ Algorithms & data structures &nbsp;◆ Individualized lesson plans &nbsp;◆ Progress tracking</sub>
     </td>
   </tr>
 </table>
 
----
+<!-- ════════════════════════════ PROJECTS ═══════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> &nbsp;Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="310">
-      <a href="https://github.com/renata110803/Bakery"><strong>🧁 Barry's Bakery</strong></a><br/>
-      <sub>Responsive bakery website with custom styling and imagery</sub><br/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-    </td>
-    <td align="center" width="310">
-      <a href="https://github.com/renata110803/CulinarySchool"><strong>🍳 Culinary School</strong></a><br/>
-      <sub>Multi-page website with navigation, about, and details pages</sub><br/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="310">
-      <a href="https://github.com/renata110803/TicTacFour"><strong>🎮 Tic Tac Four</strong></a><br/>
-      <sub>Extended Tic-Tac-Toe game with Java GUI and game logic</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    </td>
-    <td align="center" width="310">
-      <a href="https://github.com/renata110803/CalculatorGUI"><strong>🔢 Calculator GUI</strong></a><br/>
-      <sub>Graphical calculator application with interactive UI</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="310">
-      <a href="https://github.com/renata110803/TotoroSlider"><strong>🎨 Totoro Slider</strong></a><br/>
-      <sub>Interactive image slider puzzle game with Totoro theme</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    </td>
-    <td align="center" width="310">
-      <a href="https://github.com/renata110803/Full-Stack-Web-Development-"><strong>🌍 Full-Stack Web Dev</strong></a><br/>
-      <sub>University of Helsinki Full Stack Open — SPA architecture & API diagrams</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Full_Stack-8B5CF6?style=flat-square&logo=stackblitz&logoColor=white" alt="Full Stack"/>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS & ACTIVITY                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
+<h2 id="projects"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /> &nbsp;Featured Projects</h2>
 
 <div align="center">
 
-<a href="https://github.com/renata110803">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renata110803&theme=material_palenight" alt="GitHub Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/renata110803">
-  <img height="180" src="https://streak-stats.demolab.com?user=renata110803&theme=material-palenight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-</a>
+<a href="https://github.com/renata110803/Full-Stack-Web-Development-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=Full-Stack-Web-Development-&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&border_radius=12" alt="Full-Stack Web Dev"/></a>
+<a href="https://github.com/renata110803/TotoroSlider"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=TotoroSlider&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&border_radius=12" alt="Totoro Slider"/></a>
+<a href="https://github.com/renata110803/TicTacFour"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=TicTacFour&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&border_radius=12" alt="Tic Tac Four"/></a>
+<a href="https://github.com/renata110803/CalculatorGUI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=CalculatorGUI&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&border_radius=12" alt="Calculator GUI"/></a>
+<a href="https://github.com/renata110803/Bakery"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=Bakery&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&border_radius=12" alt="Barry's Bakery"/></a>
+<a href="https://github.com/renata110803/CulinarySchool"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=CulinarySchool&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&border_radius=12" alt="Culinary School"/></a>
 
-<br/><br/>
-
-<a href="https://github.com/renata110803">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renata110803&theme=material_palenight" alt="Top Languages by Repo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/renata110803">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renata110803&theme=material_palenight" alt="Top Languages by Commit"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/renata110803">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renata110803&theme=material_palenight" alt="Contribution Graph"/>
-</a>
+<sub>🌍 Full Stack Open SPA work &nbsp;·&nbsp; 🎨 Totoro slider puzzle &nbsp;·&nbsp; 🎮 Java Tic-Tac-Four &nbsp;·&nbsp; 🔢 Java calculator &nbsp;·&nbsp; 🧁 Bakery site &nbsp;·&nbsp; 🍳 Culinary school site</sub>
 
 </div>
 
----
+<!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        EDUCATION                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<h2 id="analytics"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Analytics</h2>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="28" /> &nbsp;Education
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=renata110803&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F472B6&text_color=C9D1D9&ring_color=A177FE&border_radius=12&rank_icon=github" alt="Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=renata110803&hide_border=true&border_radius=12&background=0D1117&ring=A177FE&fire=F472B6&currStreakLabel=A177FE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=renata110803&bg_color=0D1117&color=C9D1D9&line=A177FE&point=F472B6&area=true&area_color=A177FE&hide_border=true&radius=12&title_color=A177FE" alt="Activity Graph"/>
+
+</div>
+
+<!-- ═══════════════════════════ EDUCATION ═══════════════════════════ -->
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" /> &nbsp;Education</h2>
 
 <table>
   <tr>
-    <td align="center" width="80">🎓</td>
-    <td>
-      <strong>Bachelor of Science in Computer Science</strong> <em>(In Progress — Expected 2026)</em><br/>
-      University of Maryland Global Campus (UMGC) &nbsp;|&nbsp; Adelphi, MD
-    </td>
+    <td width="60" align="center">🎓</td>
+    <td><b>B.S. Computer Science</b> &nbsp;<img src="https://img.shields.io/badge/expected_2026-A177FE?style=flat-square"/><br/><sub>University of Maryland Global Campus · Adelphi, MD</sub></td>
   </tr>
   <tr>
-    <td align="center" width="80">🏫</td>
-    <td>
-      <strong>High School Diploma</strong><br/>
-      Thomas S. Wootton High School &nbsp;|&nbsp; Rockville, MD
-    </td>
+    <td width="60" align="center">🏫</td>
+    <td><b>High School Diploma</b><br/><sub>Thomas S. Wootton High School · Rockville, MD</sub></td>
   </tr>
 </table>
 
----
+<!-- ════════════════════════════ CONNECT ════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Let's Connect
+<h2 id="connect"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> &nbsp;Let's Build Something</h2>
 
 <div align="center">
 
-<a href="mailto:renata110803@gmail.com">
-  <img height="35" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/renata03">
-  <img height="35" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/renata110803">
-  <img height="35" src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<i>Open to internships, freelance web work & collaborations.</i>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="22" alt="Heart" />
-<em>&nbsp;Open to internship & collaboration opportunities!&nbsp;</em>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="22" alt="Heart" />
+<a href="mailto:renata110803@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/renata03"><img src="https://img.shields.io/badge/Connect-A177FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/renata110803?tab=followers"><img src="https://img.shields.io/github/followers/renata110803?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=6D28D9&labelColor=0D1117"/></a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renata110803/renata110803/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/renata110803/renata110803/output/snake.svg" />
+</picture>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        SNAKE ANIMATION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER WAVE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:6D28D9,100:0D1117&height=140&section=footer&text=thanks%20for%20stopping%20by&fontSize=18&fontColor=FFFFFF&fontAlignY=72"/>
