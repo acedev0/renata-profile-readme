@@ -20,28 +20,26 @@
 <!--                         SOCIAL BADGES                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p>
-  <a href="mailto:renata110803@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/renata03">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/renata110803">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=renata110803&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
+<a href="mailto:renata110803@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/renata03">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/renata110803">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=renata110803&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="30" /> &nbsp;About Me
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="80"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="28" /> &nbsp;About Me
 
 ```yaml
 name: Renata Gabdrakhmanova
@@ -56,15 +54,7 @@ interests:
 fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
 ```
 
-<br/>
-
 > *"Where design meets code — I bring creative vision and technical precision together."*
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      WHAT I'M UP TO                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 - 🏗️ &nbsp;Currently working as a **Designer / Project Coordinator** at **RemodelX Kitchen & Bath**
 - 🎓 &nbsp;Pursuing my **B.S. in Computer Science** at the **University of Maryland Global Campus**
@@ -73,52 +63,49 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
 - 📐 &nbsp;Creating **3D kitchen & cabinetry designs** with 2020 Design software
 - 💡 &nbsp;Passionate about bridging **design thinking** with **software engineering**
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**Languages**
 
-#### 🧩 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuit&logoColor=white" alt="QuickBooks"/>
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
-</p>
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuit&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                      EXPERIENCE TIMELINE                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Experience
 
 <table>
   <tr>
@@ -128,7 +115,7 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
     <td>
       <strong>🏠 Designer / Project Coordinator Assistant</strong><br/>
       <em>RemodelX Kitchen & Bath</em><br/>
-      <sub>3D kitchen design (2020 Design) • Vendor & supplier coordination • QuickBooks budgeting • Client consultations • Project documentation</sub>
+      <sub>3D kitchen design (2020 Design) · Vendor & supplier coordination · QuickBooks budgeting · Client consultations · Project documentation</sub>
     </td>
   </tr>
   <tr>
@@ -138,7 +125,7 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
     <td>
       <strong>🌐 Web Design & Development Intern</strong><br/>
       <em><a href="https://kiddycodersclub.com/">Kiddy School</a></em><br/>
-      <sub>WordPress & ReactJS development • PHP & JavaScript • Plugin integration • Responsive UI/UX • Cross-functional collaboration</sub>
+      <sub>WordPress & ReactJS development · PHP & JavaScript · Plugin integration · Responsive UI/UX · Cross-functional collaboration</sub>
     </td>
   </tr>
   <tr>
@@ -148,93 +135,112 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
     <td>
       <strong>👩‍🏫 Computer Science Tutor</strong><br/>
       <em><a href="https://kiddycodersclub.com/">Kiddy School</a></em><br/>
-      <sub>Python & JavaScript instruction • Algorithms & data structures • Individualized lesson plans • Student progress tracking</sub>
+      <sub>Python & JavaScript instruction · Algorithms & data structures · Individualized lesson plans · Student progress tracking</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                      FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> &nbsp;Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/renata110803/Bakery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=Bakery&theme=material-palenight&hide_border=true&border_radius=12" alt="Bakery"/>
-</a>
-<a href="https://github.com/renata110803/CulinarySchool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=CulinarySchool&theme=material-palenight&hide_border=true&border_radius=12" alt="CulinarySchool"/>
-</a>
-<a href="https://github.com/renata110803/TicTacFour">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=TicTacFour&theme=material-palenight&hide_border=true&border_radius=12" alt="TicTacFour"/>
-</a>
-<a href="https://github.com/renata110803/CalculatorGUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=CalculatorGUI&theme=material-palenight&hide_border=true&border_radius=12" alt="CalculatorGUI"/>
-</a>
-<a href="https://github.com/renata110803/TotoroSlider">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=TotoroSlider&theme=material-palenight&hide_border=true&border_radius=12" alt="TotoroSlider"/>
-</a>
-<a href="https://github.com/renata110803/Full-Stack-Web-Development-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renata110803&repo=Full-Stack-Web-Development-&theme=material-palenight&hide_border=true&border_radius=12" alt="Full Stack"/>
-</a>
-
+<table>
+  <tr>
+    <td align="center" width="310">
+      <a href="https://github.com/renata110803/Bakery"><strong>🧁 Barry's Bakery</strong></a><br/>
+      <sub>Responsive bakery website with custom styling and imagery</sub><br/><br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+    </td>
+    <td align="center" width="310">
+      <a href="https://github.com/renata110803/CulinarySchool"><strong>🍳 Culinary School</strong></a><br/>
+      <sub>Multi-page website with navigation, about, and details pages</sub><br/><br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="310">
+      <a href="https://github.com/renata110803/TicTacFour"><strong>🎮 Tic Tac Four</strong></a><br/>
+      <sub>Extended Tic-Tac-Toe game with Java GUI and game logic</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+    <td align="center" width="310">
+      <a href="https://github.com/renata110803/CalculatorGUI"><strong>🔢 Calculator GUI</strong></a><br/>
+      <sub>Graphical calculator application with interactive UI</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="310">
+      <a href="https://github.com/renata110803/TotoroSlider"><strong>🎨 Totoro Slider</strong></a><br/>
+      <sub>Interactive image slider puzzle game with Totoro theme</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+    <td align="center" width="310">
+      <a href="https://github.com/renata110803/Full-Stack-Web-Development-"><strong>🌍 Full-Stack Web Dev</strong></a><br/>
+      <sub>University of Helsinki Full Stack Open — SPA architecture & API diagrams</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Full_Stack-8B5CF6?style=flat-square&logo=stackblitz&logoColor=white" alt="Full Stack"/>
+    </td>
+  </tr>
+</table>
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS & ACTIVITY                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=renata110803&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=renata110803&theme=material-palenight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+<a href="https://github.com/renata110803">
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renata110803&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/renata110803">
+  <img height="180" src="https://streak-stats.demolab.com?user=renata110803&theme=material-palenight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata110803&layout=donut-vertical&theme=material-palenight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/renata110803">
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renata110803&layout=donut-vertical&theme=material-palenight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages"/>
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<a href="https://github.com/renata110803">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=renata110803&theme=material-palenight&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</a>
+
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        EDUCATION                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="30" /> &nbsp;Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="28" /> &nbsp;Education
 
 <table>
   <tr>
-    <td align="center" width="80">
-      🎓
-    </td>
+    <td align="center" width="80">🎓</td>
     <td>
       <strong>Bachelor of Science in Computer Science</strong> <em>(In Progress — Expected 2026)</em><br/>
       University of Maryland Global Campus (UMGC) &nbsp;|&nbsp; Adelphi, MD
     </td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      🏫
-    </td>
+    <td align="center" width="80">🏫</td>
     <td>
       <strong>High School Diploma</strong><br/>
       Thomas S. Wootton High School &nbsp;|&nbsp; Rockville, MD
@@ -242,33 +248,31 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
   </tr>
 </table>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    CONNECT WITH ME                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> &nbsp;Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Let's Connect
 
 <div align="center">
 
 <a href="mailto:renata110803@gmail.com">
-  <img height="40" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
+  <img height="35" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/renata03">
-  <img height="40" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
+  <img height="35" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/renata110803">
-  <img height="40" src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img height="35" src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" alt="Heart" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="22" alt="Heart" />
 <em>&nbsp;Open to internship & collaboration opportunities!&nbsp;</em>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" alt="Heart" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="22" alt="Heart" />
 
 </div>
 
@@ -285,8 +289,6 @@ fun_fact: "I design kitchens in 3D by day and code web apps by night ✨"
     <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        FOOTER WAVE                                 -->
